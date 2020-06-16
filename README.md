@@ -13,16 +13,16 @@ Desafio utilizando tecnologia Node.js.
 
 ## Instalação
 ### 1º Passo
-|git clone https://github.com/eoliveira90/primeiro_desafio_gostack.git
+```git clone https://github.com/eoliveira90/primeiro_desafio_gostack.git```
 
 ### 2º Passo - instalação de dependencias
-|yarn install
+```yarn install```
 
 ### 3º Passo - roda o projeto
-|npm run dev
+```npm run dev```
 
 ### Passo OPCIONAL
-|npm run test
+```npm run test```
 
 ## Autor
 Erison Correia de Oliveira Neto - [GitHub](https://github.com/eoliveira90) / [Email](mailto:erisoncoliveirant@gmail.com)
